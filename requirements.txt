@@ -1,0 +1,8 @@
+requests~=2.31.0
+pytest~=7.4.4
+allure-pytest
+jsonschema~=4.21.1
+pydantic~=2.5.3
+python-dotenv~=1.0.1
+selene~=2.0.0rc7
+selenium~=4.17.2
